@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31d3b3cfc3cb9241bfdcd2ffc72c423, type: 3}
+  m_Name: BearyData
+  m_EditorClassIdentifier: 
+  animalName: 
+  height: 0
+  width: 0
+  length: 0
+  accelerationMultiplier: 0
+  torqueMultiplier: 0
+  maxSpeed: 0
+  health: 0
+  maxHealth: 0
+  healthRegen: 0
+  healthRestorationByFood: 0
+  viewDistance: 0
+  fovHorizontal: 0
+  sightHeight: 0
+  sightDepth: 0
+  staminaBarDistance: 0
+  diet:
+  - greenFood
+  startingStamina: 0
+  stamina: 0
+  maxStamina: 0
+  staminaGain: 0
+  speedOfStaminaLoss: 0
+  carnivorous: 0
+  attackDamage: 0
+  attackSpeed: 0
+  water: 0
+  waterGain: 0
+  maxWater: 0
+  matingPoints: 0
+  matingPointsNeeded: 0
+  childNumMax: 0
+  childRate: 0
+  currencyGainedForMating: 0

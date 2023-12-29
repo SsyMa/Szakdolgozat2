@@ -1,0 +1,2 @@
+.vs/ filter=lfs diff=lfs merge=lfs -text
+Ecossystem.sln filter=lfs diff=lfs merge=lfs -text

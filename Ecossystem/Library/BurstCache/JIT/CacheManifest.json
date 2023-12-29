@@ -1,0 +1,1141 @@
+{
+  "BurstVersion": "ed7d93ab-72ae-4d46-9fc9-027b31698d75",
+  "Assemblies": [
+    {
+      "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-09-20T01:20:46Z"
+    },
+    {
+      "FullName": "Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-11-14T13:30:03.1486174Z"
+    },
+    {
+      "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "LastWriteTime": "2022-09-20T00:57:32Z"
+    },
+    {
+      "FullName": "netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
+      "LastWriteTime": "2022-09-20T00:57:32Z"
+    },
+    {
+      "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-11-14T13:30:03.1536189Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-11-14T13:30:03.0956851Z"
+    },
+    {
+      "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-11-14T13:30:03.1958075Z"
+    },
+    {
+      "FullName": "Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-06-07T14:55:04Z"
+    },
+    {
+      "FullName": "Unity.Collections.LowLevel.ILSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-06-09T01:01:12Z"
+    },
+    {
+      "FullName": "UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-09-20T01:20:46Z"
+    },
+    {
+      "FullName": "mscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-09-20T00:57:32Z"
+    },
+    {
+      "FullName": "UnityEngine.TLSModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-09-20T01:20:46Z"
+    },
+    {
+      "FullName": "Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-11-14T13:30:03.0706113Z"
+    }
+  ],
+  "Functions": [
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.NetworkDriver+UpdateJob, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.NetworkDriver+UpdateJob&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "3d4781deb043e258014e028d658faf51",
+      "LinkName": "08B4350BD6936DAB",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.NetworkDriver+ClearEventQueue, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.NetworkDriver+ClearEventQueue&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "8a4f39af8d48e28647e88a19129d538f",
+      "LinkName": "7DF426609C1B9E52",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2,
+        4,
+        3,
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeListDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeListDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "636fc0c1e6eee228ab5dee58026080a8",
+      "LinkName": "352B6D5D03F8F621",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.IPCNetworkInterface+ReceiveJob, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.IPCNetworkInterface+ReceiveJob&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "78a1d166ae4c8cad89bb2716f814af0b",
+      "LinkName": "603AB859797A13C2",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.BaselibNetworkInterface+ReceiveJob, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.BaselibNetworkInterface+ReceiveJob&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "35c99fbccdd22198641139ff824be596",
+      "LinkName": "938E4234870C040C",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        8,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.IPCNetworkInterface+SendUpdate, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.IPCNetworkInterface+SendUpdate&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "f95b6bac132fb428b803876c13772c5b",
+      "LinkName": "D2A8714E0A9BBE9C",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2,
+        4,
+        3,
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Networking.Transport.BaselibNetworkInterface+FlushSendJob, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Networking.Transport.BaselibNetworkInterface+FlushSendJob&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ee48844ceb6b29b3e955226596d2fa79",
+      "LinkName": "6489B93DD85640DD",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c5b159ab0180d9c8b369c1c75bcb02cc",
+      "LinkName": "801E9A000BB37B05",
+      "AssemblyDependencyIndices": [
+        6,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ef604ec5d1d1f90b80d0bd2effd727e5",
+      "LinkName": "CDCA4A5193BE5947",
+      "AssemblyDependencyIndices": [
+        6,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.AllocatorManager+StackAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "bb1c3c4db95ecd24f3badf8cf06c700f",
+      "LinkName": "31D71C750A9E4345",
+      "AssemblyDependencyIndices": [
+        4,
+        9,
+        3,
+        2,
+        6,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.AllocatorManager+SlabAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2f94b210734f93830d325748ee06fd36",
+      "LinkName": "8CC3C64CA4A3FEDE",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        2,
+        6,
+        0,
+        5,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeQueueDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeQueueDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "7e561f7cb3034ac4f65256f13582c120",
+      "LinkName": "8F02018D2DAA4F36",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeReferenceDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeReferenceDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "fa57758c6c5c50742fa8dbc3eb06a595",
+      "LinkName": "703CA6DADE3415F0",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        5,
+        2,
+        3,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeStream+ConstructJobList, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeStream+ConstructJobList&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "af7f2fa5fd3614bcafe41dadbd352653",
+      "LinkName": "846F65225A066FD6",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        6,
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeStream+ConstructJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeStream+ConstructJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b54e4bc9aa28af2f529a9b5eb0873697",
+      "LinkName": "1F3827F16D435181",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        6,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDataDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDataDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "35ca7c0b6ac349a7ea2871a4c3e5f973",
+      "LinkName": "C0BB42F31A3089F2",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "789996ed1ed75c6869bcc55cdb8e4071",
+      "LinkName": "0AFB48C3B9CA6ECF",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        10,
+        3,
+        7,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "afbb5351b59f344eec6a4e22f2dc71e2",
+      "LinkName": "5AAE3265C3BCB248",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+DisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+DisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "bc582b076998a75882622c68dde1dd8d",
+      "LinkName": "A8134E26EAC44A70",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJobList, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJobList&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "f8243a281fca401fecbee2b2aca27fd7",
+      "LinkName": "18F4EDFD51FD6159",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9138e02719e01dfb902a0405330e8237",
+      "LinkName": "EC65C6FB1FDE45E6",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.BaselibNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::BeginSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "35f543eca5ed9aed7cd63583f52a35d0",
+      "LinkName": "857A0715333D2D03",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.BaselibNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::EndSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkInterfaceEndPoint&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9d839eeacf38088eeec58323e47d2dd1",
+      "LinkName": "B1BD8B7E90993FBC",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.BaselibNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::AbortSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b2732f2f0b7c04871a4e11259cfe8c3c",
+      "LinkName": "405511192E903FA8",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.IPCNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::BeginSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c7d481340f22e14cbcc13b9549d63eb3",
+      "LinkName": "E373B405F1A7D9BA",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.IPCNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::EndSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkInterfaceEndPoint&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "16133a8a95334112d6d8aeef9acf246c",
+      "LinkName": "206E77D8FBC75F1F",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        4,
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.IPCNetworkInterface, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::AbortSendMessage(Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ce4c5bc3251adef0c21ab84f33263138",
+      "LinkName": "B5C64C36D49D8972",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.FragmentationPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2e9d619cdeb3046dd331b8c0e3c0c10e",
+      "LinkName": "84F861855A196DE7",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.FragmentationPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "708383107303fe7818ec4826a778e973",
+      "LinkName": "9C5FC2D799874046",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.FragmentationPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "23bb33af0538fb62efe2b05e0fde6ed9",
+      "LinkName": "596242BF8AF89112",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.NullPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ae4b9e076b318f08bbc5acbdf1623f98",
+      "LinkName": "84A21133F3CF57F0",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.NullPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b5882d98a7577d39578631eec548109c",
+      "LinkName": "8B17BD77EE90BA4D",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.NullPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "3887d220ba02c2059b02cea1b88408d7",
+      "LinkName": "AB6431E798DCDD09",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.ReliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b118bdf246aada3f98692657db0a12df",
+      "LinkName": "1DC98CF1A1A9242B",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.ReliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "3fadf92ad2ba76140bf50330e64626a1",
+      "LinkName": "5A81E96A787BD6C8",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.ReliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ccf8072a5c0b0dc0925f8911ec851f79",
+      "LinkName": "2F483606ED7F5C8A",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "d8d9444087bfa2413ca4cc0a79fd8f37",
+      "LinkName": "834661DA2978B91C",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "4c0a54829e326d1d2d33d05425e966a3",
+      "LinkName": "165F68DC85B6E7BF",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "022195ac231b32a2423396f31d7ad3f3",
+      "LinkName": "8FBDC7A810335300",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        5,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStageInSend, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "368cc81d8fb94d1d4be1b356829a4fa9",
+      "LinkName": "F4BD41705BF46512",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStageInSend, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6236f82d116bd8bedcb827ae03dcc814",
+      "LinkName": "509B6464D32C1B2D",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        5,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.SimulatorPipelineStageInSend, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "af3421d40277f97d91f5d4e5c51403e6",
+      "LinkName": "B6C3CDB6974A03E3",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnreliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ac4129ef580e4a2ca0ff5f099e3ffa7a",
+      "LinkName": "342C1D0D8A6A6576",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnreliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "0d890732c581ea65fde48247fe97dce5",
+      "LinkName": "9045309AB69254FE",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnreliableSequencedPipelineStage, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "8ea63570635610dede8a1fe03cf9420c",
+      "LinkName": "8BCAA01A321CA107",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ComputePacketOverhead(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "fae4a0dc33e9fb92529d09c0b94237f7",
+      "LinkName": "6145DC50FD879086",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessReceive(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkInterfaceEndPoint&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.ProcessPacketCommand&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c7c2894daaf9e2196c63900ec4c6f06a",
+      "LinkName": "5600D400EB80ABDE",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSend(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "30edf34953ff7254641da4450af09a24",
+      "LinkName": "BC8C83FADEE9F234",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendConnectionAccept(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "48efb9f22a11efcea33bcb3e6292b485",
+      "LinkName": "16FDDBA27148F3F2",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Connect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2b4e6bbbca9611d46c17ab9b0e57db48",
+      "LinkName": "FC6763BCF28B1569",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Disconnect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c81ea383b8b08ceee6989bc4983e902e",
+      "LinkName": "F96C38DD1B7A724A",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPing(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c942fe606eb2cac816da2d7fee0e5385",
+      "LinkName": "B45934A736DED5B5",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPong(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c3a2b7c28ec60f4cb37148f9b90b3030",
+      "LinkName": "4A8E1A36471488BB",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.UnityTransportProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Update(System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "31fe6ec75f5c028b78283dd22a31432a",
+      "LinkName": "9832D57B7D83EA86",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ComputePacketOverhead(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9539a3f7f3c05bb699e3db403d311494",
+      "LinkName": "2AFC892CC843E191",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessReceive(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkInterfaceEndPoint&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.ProcessPacketCommand&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "27f8d534d21d0792a2ee52a794aa6029",
+      "LinkName": "2170EE3B2ED43638",
+      "AssemblyDependencyIndices": [
+        1,
+        11,
+        3,
+        2,
+        4,
+        0,
+        6,
+        7,
+        5,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSend(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c0cfbb42bcac621c468673327229bff4",
+      "LinkName": "49FC35E14431E063",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        11,
+        0,
+        6,
+        7,
+        5,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendConnectionAccept(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "f5c866630bcc25182d41c26aa862b60e",
+      "LinkName": "27B13EB60371BCFB",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        0,
+        11,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::WriteConnectionAcceptMessage(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9e4abd80ad8d8ff693ff3fe2f46926dc",
+      "LinkName": "81426F6E61CC87EF",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Connect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "82e3d10f15f6af4c3c834b35abdaa44d",
+      "LinkName": "61EB38371943037B",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        11,
+        0,
+        6,
+        7,
+        5,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Disconnect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "eb06e8d206ffa8143d81b1fcbbd2844d",
+      "LinkName": "9836F834E418561C",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        0,
+        11,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPing(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ea85b89d7d7b69259cea841410d0b198",
+      "LinkName": "0ECCF3EF2FFF071C",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        0,
+        11,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPong(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2fceac0e1910cc6b41e28dbfcc8f2b5f",
+      "LinkName": "E289A67D92121784",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        0,
+        11,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.TLS.SecureNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Update(System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c0391050bb4906c081acd12fc99f98a5",
+      "LinkName": "CBE1CC8779D3C9FD",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        4,
+        0,
+        11,
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ComputePacketOverhead(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "46247ac8e10b183e97d04057f9694a65",
+      "LinkName": "FADA991382883E7C",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessReceive(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkInterfaceEndPoint&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.ProcessPacketCommand&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6a0f36a350c343ac1ca725ca2e75a5a5",
+      "LinkName": "EB31CBC7638F73CC",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        11,
+        0,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSend(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkInterfaceSendHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "3442dad080ef01a2938e57968e6271d8",
+      "LinkName": "6D80D07EDB00D6C8",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        11,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendConnectionAccept(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6c617b8b9ec8d631a7fa24a15a9bd5c7",
+      "LinkName": "08E0992CBFDA2BCB",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        0,
+        11
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Connect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "d3841dc82e3aa3067cfff78cb0035479",
+      "LinkName": "625069EDE13C3AE2",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        11,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Disconnect(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c7de93fac7b1b3a5476b39ada1f9751b",
+      "LinkName": "C7F1F79F3FBDA990",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        11,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPing(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6b0703c55f0ebc7a8ff321d6236e4589",
+      "LinkName": "73660E044308A724",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        11,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProcessSendPong(Unity.Networking.Transport.NetworkDriver+Connection&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "17088cd729990a760edee894772c920f",
+      "LinkName": "60150A89E3631703",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        6,
+        11,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Networking.Transport.Relay.RelayNetworkProtocol, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Update(System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Networking.Transport.NetworkSendInterface&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkSendQueueHandle&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "21fbf3f9ba95c25c24c070b69a1e9a1d",
+      "LinkName": "2FF613DAFB615C9D",
+      "AssemblyDependencyIndices": [
+        1,
+        3,
+        2,
+        11,
+        0,
+        6,
+        4,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.RewindableAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b8c3147f57fae8228c743e210a490dc9",
+      "LinkName": "806B2D5E79A7443E",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        2,
+        6,
+        5,
+        0,
+        9,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.xxHash3, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Hash64Long(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "d8c694c066c567a97f783154b0e49a81",
+      "LinkName": "073EC3FA933E2E4B",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        2,
+        6,
+        0,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.xxHash3, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Hash128Long(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.uint4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "cb17676db4c9b29fb675ca839a2e4558",
+      "LinkName": "64D279804013162E",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        2,
+        5,
+        6,
+        0,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Netcode.Transports.UTP.NetworkMetricsPipelineStage, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Send(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundSendBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "416e4e8b898fda2ea6b2b3b088edd227",
+      "LinkName": "9BA0F821408F4C9F",
+      "AssemblyDependencyIndices": [
+        12,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Netcode.Transports.UTP.NetworkMetricsPipelineStage, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::InitializeConnection(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2b56b695be60d6d75116a1d5e576206a",
+      "LinkName": "7892315BD5CF5245",
+      "AssemblyDependencyIndices": [
+        12,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Netcode.Transports.UTP.NetworkMetricsPipelineStage, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Receive(Unity.Networking.Transport.NetworkPipelineContext&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.InboundRecvBuffer&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Networking.Transport.NetworkPipelineStage+Requests&, Unity.Networking.Transport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2e41b67889e6f785b369dff02fef15fb",
+      "LinkName": "EB3E5882FD834383",
+      "AssemblyDependencyIndices": [
+        12,
+        3,
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

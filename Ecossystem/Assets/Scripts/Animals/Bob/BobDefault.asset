@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31d3b3cfc3cb9241bfdcd2ffc72c423, type: 3}
+  m_Name: BobDefault
+  m_EditorClassIdentifier: 
+  animalName: Bob
+  height: 0
+  width: 1
+  length: 1
+  accelerationMultiplier: 5
+  torqueMultiplier: 10
+  maxSpeed: 2
+  health: 100
+  maxHealth: 100
+  healthRegen: 0.05
+  healthRestorationByFood: 1
+  viewDistance: 20
+  fovHorizontal: 100
+  sightHeight: 5
+  sightDepth: 2
+  staminaBarDistance: 1.2
+  diet:
+  - greenFood
+  startingStamina: 50
+  stamina: 50
+  maxStamina: 100
+  staminaGain: 0
+  speedOfStaminaLoss: 0
+  carnivorous: 0
+  attackDamage: 10
+  attackSpeed: 5
+  water: 0
+  waterGain: 0
+  maxWater: 100
+  matingPoints: 10
+  matingPointsNeeded: 100
+  childNumMax: 1
+  childRate: 3
+  currencyGainedForMating: 1
